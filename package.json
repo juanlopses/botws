@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp usando Baileys con conexión por Pairing Code.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "@hapi/boom": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuusuario/tu-repositorio.git"
+  },
+  "author": "Juanlopses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuusuario/tu-repositorio/issues"
+  },
+  "homepage": "https://github.com/tuusuario/tu-repositorio#readme"
+}
